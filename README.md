@@ -1,8 +1,4 @@
-## Siwoo Chung
-
-EECS @ UC Berkeley  
-
-Interested in backend systems and scalable software  
+Hi! I'm Siwoo and I'm currently studying Electrical Engineering and Computer Sciences @ UC Berkeley, interested in backend systems and scalable software!
 
 Python • Java • C • JS/TS • SQL • MATLAB  
 FastAPI • Node.js • AWS • Docker • Redis • Git  
