@@ -1,4 +1,11 @@
-## Hi there 👋
+## Siwoo Chung
+
+EECS @ UC Berkeley  
+
+Interested in backend systems and scalable software  
+
+Python • Java • C • JS/TS • SQL • MATLAB  
+FastAPI • Node.js • AWS • Docker • Redis • Git  
 
 <!--
 **sjxchng/sjxchng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
