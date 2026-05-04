@@ -1,4 +1,4 @@
-Hi! I'm Siwoo and I'm currently studying Electrical Engineering and Computer Sciences @ UC Berkeley, interested in backend systems, scalable software, and AI!
+Hi! I'm Siwoo and I'm currently studying Electrical Engineering and Computer Sciences @ UC Berkeley, interested in backend systems, scalable software, and AI/ML!
 
 Python • Java • C • JS/TS • SQL • MATLAB  
 FastAPI • React • Node.js • AWS • Docker • Redis • Git  
